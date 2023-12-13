@@ -18,3 +18,5 @@ create a fork and you can fix it there and create a pull request back to the mai
 ## Web API
 
 We have a [comprehensive web API](https://github.com/VocaDB/vocadb/wiki/Public-API) for programmatic access. Please take a look if you're interested.
+
+ZH-CN 简中本地化翻译项目。
